@@ -15,6 +15,10 @@ Terraform e AWS
 
   ![](https://github.com/Hypothasis/Hackathon4/blob/main/prints/delete-pods.png)
 
+- Post Delete pods:
+
+  ![](https://github.com/Hypothasis/Hackathon4/blob/main/prints/delete-post.png)
+
 - Fase 2, é criar uma instância EC2 na AWS via Terraform Cloud:
 - Criando um Run no Terraform com Plan e Apply:
 
