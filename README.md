@@ -23,4 +23,7 @@ Terraform e AWS
 - AWS EC2 com a instância criada com o terraform:
 
   ![](https://github.com/Hypothasis/Hackathon4/blob/main/prints/EC2.png)
-  
+
+- Output do IP Publico do EC2 com o Terraform:
+
+  ![](https://github.com/Hypothasis/Hackathon4/blob/main/prints/OutputIP.png)
